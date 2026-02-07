@@ -1,6 +1,6 @@
-mod/common/on_actions/_nystrom_dummy.txt
+mod/common/on_actions/I.txt
 
-mod/localisation/english/_nystrom_dummy_I_english.yml
+mod/localisation/english/I_english.yml
 
 mod/descriptor.mod
 
