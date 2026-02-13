@@ -5,3 +5,6 @@ mod/localisation/english/I_english.yml
 mod/descriptor.mod
 
 host mod, send private link, changes only checksum
+
+
+REQUIRES UPDATE, KEY CHANGE prevented checksum, will update @FEB142026
