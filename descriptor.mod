@@ -4,4 +4,4 @@ tags={
 }
 name="VanillaAntiHackerMod"
 supported_version="1.17.3.0"
-remote_file_id="3656216994"
+remote_file_id="0000000000"
