@@ -1,10 +1,3 @@
-mod/common/on_actions/I.txt
-
-mod/localisation/english/I_english.yml
-
-mod/descriptor.mod
+common/continuous_focus/3626_hidden_focus.txt
 
 host mod, send private link, changes only checksum
-
-
-REQUIRES UPDATE, KEY CHANGE prevented checksum, will update @FEB142026
