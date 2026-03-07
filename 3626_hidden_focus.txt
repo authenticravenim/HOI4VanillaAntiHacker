@@ -1,0 +1,25 @@
+continuous_focus = {
+
+    focus_3626_hidden_checksum = {
+
+        icon = GFX_goal_generic_production
+
+        available = {
+            always = no
+        }
+
+        visible = {
+            always = no
+        }
+
+        cost = 10
+
+        completion_reward = { }
+
+        ai_will_do = {
+            factor = 0
+        }
+
+    }
+
+}
